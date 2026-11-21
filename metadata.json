@@ -1,0 +1,6 @@
+{
+  "name": "MeetFlow AI",
+  "description": "From Meeting Conversations to Intelligent Execution — an agentic AI meeting intelligence platform with Gemini AI extraction, cross-meeting memory, conflict detection, human-in-the-loop approvals, task tracking, and weekly digests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
